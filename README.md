@@ -1,6 +1,6 @@
-[![Header](assets/header.png)](https://mj-webdev.com)
+[![Header](./assets/header.png)](https://mj-webdev.com)
 
-# Hello World <img src="assets/wave.gif" width="26px">
+# Hello World <img src="./assets/wave.gif" width="26px">
 
 My name is *Minhyeong Joe*, or simply *Billy* :sunglasses:
 
