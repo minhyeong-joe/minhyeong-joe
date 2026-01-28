@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/minhyeong-joe/minhyeong-joe/master/assets/header.png)](https://mj-webdev.com)
+[![Header](https://raw.githubusercontent.com/minhyeong-joe/minhyeong-joe/master/assets/header.png)](#)
 
 # Hello World <img src="https://raw.githubusercontent.com/minhyeong-joe/minhyeong-joe/master/assets/wave.gif" width="26px">
 
