@@ -6,9 +6,9 @@ My name is *Minhyeong Joe*, or simply *Billy* :sunglasses:
 
 I graduated from University of California, Irvine in 2020 with the Bachelor's degree in Computer Science :man_student:
 
-I am interested in **Web and Mobile development**, **UI/UX**, and **AI**.
+I am interested in **Web and Mobile development**, **Game Engineering**, and **AI**.
 
-Though I am a bit addicted to coding, I also love playing video games :video_game: and guitar :guitar: in my free time.
+Other than coding, I also love playing video games :video_game: and guitar :guitar: in my free time.
 
 # :hammer_and_wrench: Skillset
 
@@ -24,6 +24,7 @@ Though I am a bit addicted to coding, I also love playing video games :video_gam
 ![](https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Django-003D2B?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Framework-Unity-222C37?style=flat&logo=unity&logoColor=white)
 
 ![](https://img.shields.io/badge/Tool-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Tool-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
