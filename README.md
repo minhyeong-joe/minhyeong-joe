@@ -20,7 +20,7 @@ My core interests include:
 
 - Game engineering
 
-Outside of engineering, I enjoy video games, playing guitar, and bouldering.
+Outside of engineering, I enjoy video games, playing guitar, bouldering, tennis, and board games.
 
 # :hammer_and_wrench: Skillset
 
