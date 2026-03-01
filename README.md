@@ -6,7 +6,7 @@ Hi, I’m Minhyeong Joe (Billy)
 
 Software Engineer focused on building scalable web systems and production-grade applications.
 
-I graduated from the University of California, Irvine in 2020 with a B.S. in Computer Science, **Summa Cum Laude (GPA: 3.97/4.0)**, while serving from 2015 to 2021 in the United States Military in logistics operations.
+I graduated from the University of California, Irvine in 2020 with a B.S. in Computer Science, **Magna Cum Laude (GPA: 3.97/4.0)**, while serving from 2015 to 2021 in the United States Military in logistics operations.
 
 My core interests include:
 
